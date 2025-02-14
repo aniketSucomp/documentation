@@ -36,3 +36,5 @@ create .env file and add the environment variables inside backend folder
 |-------|-----|----------|
 | Alex  | 30  | USA      |
 | Sara  | 28  | Canada   |
+
+![image 1](./img1.png)
