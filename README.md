@@ -32,3 +32,7 @@ create .env file and add the environment variables inside backend folder
 
 [Installation](doc1/installation.md)
 
+| Name  | Age | Country  |
+|-------|-----|----------|
+| Alex  | 30  | USA      |
+| Sara  | 28  | Canada   |
