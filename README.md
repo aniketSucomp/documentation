@@ -10,6 +10,8 @@ clone the the repo
 ## backend
 ### prerequisites
 1. Node vesion 20 
+
+    [Node-20-v](https://nodejs.org/en/download)
 2. mongodb database 
 3. VS code 
 
@@ -26,4 +28,7 @@ create .env file and add the environment variables inside backend folder
 ### prerequisites
 1. Node vesion 20 
 
+
+
+[Installation](doc1/installation.md)
 
